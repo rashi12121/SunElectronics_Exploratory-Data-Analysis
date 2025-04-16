@@ -54,10 +54,9 @@ The analysis is focused on:
 ---
 
 ## Dashboard
+-Dashboard Interaction <a href="https://github.com/rashi12121/SunElectronics_Exploratory-Data-Analysis/blob/main/Screenshot%202025-04-16%20205808.png# SunElectronics Ad Effectiveness Analysis">View Dashboard</a>
 
-You can view the interactive dashboard here:  
-**[Dashboard Link](#)**  
-*([https://github.com/rashi12121/SunElectronics_Exploratory-Data-Analysis/blob/main/Screenshot%202025-04-16%20205808.png# SunElectronics Ad Effectiveness Analysis])*
+
 
 ---
 
