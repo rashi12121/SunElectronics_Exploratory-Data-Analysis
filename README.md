@@ -1,78 +1,67 @@
 # 📊 SunElectronics Ad Effectiveness Analysis
 
-## 🧾 Project Overview
+## Project Overview
 
-SunElectronics conducted various advertising campaigns across digital platforms like YouTube and Instagram over the past year. The objective of this project is to analyze the performance of these ads based on **Cost Per Visit (CPV)** and help guide future ad strategy decisions.
+This project analyzes the performance of different Ads run by SunElectronics over the past year. The Ads were published on platforms like YouTube and Instagram with the goal of bringing customers to the website to purchase electronic items.
 
-The analysis focuses on:
-- **Ad-wise performance** to evaluate the cost-effectiveness of each campaign.
-- **Platform-wise performance** to identify the best advertising channels.
-
----
-
-## 🎯 Objectives
-
-1. **Ad-wise Analysis**  
-   Evaluate the performance of each Ad campaign based on the Cost Per Visit (CPV).
-
-2. **AdPlatform-wise Analysis**  
-   Assess how each advertising platform (YouTube, Instagram, etc.) performed in terms of CPV.
+The analysis is focused on:
+- Ad-wise performance using Cost Per Visit (CPV)
+- Platform-wise performance using Cost Per Visit (CPV)
 
 ---
 
-## ❓ Key Business Questions
+## Objectives
 
-- Which Ad Platform had the **lowest CPV** and was most cost-efficient?
-- Which Ad Platform had the **highest CPV** and was least efficient?
-- Which Ad campaign delivered the **best cost per visit**?
-- Which Ad campaign performed **poorly** in terms of cost?
+1. Analyze each Ad to check how much was spent per visit (CPV).
+2. Analyze each Ad Platform to see which one performed best in terms of CPV.
 
 ---
 
-## 📌 Findings
+## Business Questions
 
-| 🔢 | Observation |
-|-----|-------------|
-| 1️⃣ | **YouTube** was the **best-performing Ad Platform** with the **lowest CPV of ₹20.7**. |
-| 2️⃣ | **Instagram** had the **highest CPV of ₹50.2**, making it the **least cost-effective**. |
-| 3️⃣ | **"Holi Hungama"** was the **best-performing Ad campaign** with a **CPV of ₹20.9**. |
-| 4️⃣ | **"Summer Super Saver"** was the **worst-performing campaign** with a **CPV of ₹121.1**. |
+- Which Ad Platform had the lowest CPV?
+- Which Ad Platform had the highest CPV?
+- Which Ad had the lowest CPV?
+- Which Ad had the highest CPV?
 
 ---
 
-## 📊 Performance Summary
+## Key Findings
 
-### 🖥️ Platform-wise CPV
+1. YouTube was the best-performing platform with the lowest CPV of ₹20.7.
+2. Instagram had the highest CPV of ₹50.2 and did not perform as expected.
+3. The "Holi Hungama" Ad had the best performance with a CPV of ₹20.9.
+4. The "Summer Super Saver" Ad had the worst performance with a CPV of ₹121.1.
+
+---
+
+## Summary Tables
+
+### Platform-wise CPV
 
 | Ad Platform | CPV (₹) |
 |-------------|---------|
-| **YouTube** | **20.7** |
-| Instagram   | 50.2     |
+| YouTube     | 20.7    |
+| Instagram   | 50.2    |
 
-### 📢 Ad-wise CPV
+### Ad-wise CPV
 
-| Ad Name              | CPV (₹)  |
-|----------------------|----------|
-| **Holi Hungama**     | **20.9** |
-| Summer Super Saver   | 121.1    |
-
----
-
-## 🧠 Insights & Recommendations
-
-- Continue investing in **YouTube**, as it has proven to be the most cost-efficient platform.
-- Reassess the **Instagram strategy** — explore better targeting and creatives to improve performance.
-- Analyze the success of **Holi Hungama** to inform the design of future campaigns.
-- Revisit the **Summer Super Saver** campaign to understand why it performed poorly — review audience targeting, timing, and message clarity.
+| Ad Name             | CPV (₹)  |
+|---------------------|----------|
+| Holi Hungama        | 20.9     |
+| Summer Super Saver  | 121.1    |
 
 ---
 
-## 📈 Dashboard
+## Dashboard
 
-👉 **[Click here to view the Dashboard](#)**  
-*Replace the above link with your actual dashboard URL once published (e.g., Power BI, Tableau, Google Data Studio).*
+You can view the interactive dashboard here:  
+**[Dashboard Link](#)**  
+*([https://github.com/rashi12121/SunElectronics_Exploratory-Data-Analysis/blob/main/Screenshot%202025-04-16%20205808.png# SunElectronics Ad Effectiveness Analysis])*
 
 ---
 
-## 📁 Repository Structure
+## Files Included
+
+
 
